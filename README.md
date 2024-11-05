@@ -4,8 +4,9 @@
 <p align="left">
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bragaarlana&show_icons=true&locale=en&layout=compact" alt="bragaarlana" /></p>
+![Estatísticas](<https://github-readme-stats.vercel.app/api?username=bragaarlana&count_private=true&show_icons=true&theme=dark>)
 
-<p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=bragaarlana&show_icons=true&locale=en" alt="bragaarlana" /></p>
+![Top Langs](<https://github-readme-stats.vercel.app/api/top-langs/?username=bragaarlana&count_private=true&hide=html,css&show_icons=true&theme=dark>)
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bragaarlana&" alt="bragaarlana" /></p>
