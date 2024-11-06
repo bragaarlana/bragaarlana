@@ -10,8 +10,8 @@
 
 <div align="start" style="display: inline_block">
   <a href="https://github.com/bragaarlana">
-  <img height="180em" src="https://github-readme-stats-eta-five-56.vercel.app/api?username=bragaarlana&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eta-five-56.vercel.app/api/top-langs/?username=bragaarlana&count_private=true&hide=tex&show_icons=true&theme=rose_pine"/>
+  <img height="180em" src="https://github-readme-stats-eta-five-56.vercel.app/api?username=bragaarlana&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eta-five-56.vercel.app/api/top-langs/?username=bragaarlana&count_private=true&hide=tex&show_icons=true&theme=radical"/>
 </div>
 
 
