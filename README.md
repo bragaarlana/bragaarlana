@@ -2,10 +2,6 @@
 
 ![header](https://img.shields.io/badge/Woman%20in%20Tech-%23F28AB2?style=flat-square&logo=github&color=ff69b4)
 
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-</p>
-
 ## `stats`
 
 <div align="start" style="display: inline_block">
