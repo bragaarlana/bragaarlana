@@ -1,4 +1,4 @@
-<h2 align="center">Hey, eu sou Arlana </h2>
+<!--<h2 align="center">Hey, eu sou Arlana </h2>-->
 
 ![header](https://img.shields.io/badge/Woman%20in%20Tech-%23F28AB2?style=flat-square&logo=github&color=ff69b4)
 
